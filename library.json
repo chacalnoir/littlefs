@@ -1,0 +1,7 @@
+{
+  "name": "littlefs",
+  "version": "0.0.0+20250718231041",
+  "build": {
+    "srcFilter": "+<lfs.c> +<lfs_util.c> -<*>"
+  }
+}
